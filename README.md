@@ -24,12 +24,17 @@ Currently interested in developing more in roles that have the following stacks:
 - API Integrations
 - Figma || Inkscape || Krita
 - Neovim || Vscode
+- Markdown
+- Podman || SystemD
+- Or Bring your own tech
 
 I'm currently looking for roles, you can match me at my Linkedin in for more info or you can dig my email through my commit history and let me know and we can set up a meet virtually.
 
 A little about me:
 I'm the author of the band,software house,label,brand,company`: 
 It started as a joke and now I have this very cheap domain and not going to try to find a better name.
+
+Currently deployed to a remote CF worker but I should probably move it.
 
 Nil Mission.
 Current site:
