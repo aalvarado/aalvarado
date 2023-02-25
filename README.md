@@ -14,7 +14,7 @@ Currently interested in developing more in the following stacks:
 - RabbitMQ || ZeroMQ
 - REST || GraphQL
 - RSpec || Cypress || Jest || Testing
-- CI
+- CI || Github actions
 - HTML/CSS
 - React Native
 - Datadog || NewRelic
