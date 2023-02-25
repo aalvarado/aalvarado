@@ -6,7 +6,7 @@ A builder at heart, I enjoy working with a diverse set of collaborators that lik
 
 Worked with many great companies over time and love to meet interesting people.
 
-Currently interested in developing more in roles that have the following stacks:
+Currently interested in developing more in the following stacks:
 - Ruby || Typescrypt || Rust || Ocaml || Elixir ||  Reason || Node
 - Rails || Express || NextJs || React || Apollo || Graphql || Sidekiq || 
 - Linux, Osx, Windows
