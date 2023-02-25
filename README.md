@@ -7,8 +7,9 @@ A builder at heart, I enjoy working with a diverse set of collaborators that lik
 Worked with many great companies over time and love to meet interesting people.
 
 Currently interested in developing more in roles that have the following stacks:
-- Ruby || Typescrypt || Rust || Ocaml || Elixir ||  Reason
-- Rails || 
+- Ruby || Typescrypt || Rust || Ocaml || Elixir ||  Reason || Node
+- Rails || Express || NextJs || React || Apollo || Graphql || Sidekiq || 
+- Linux, Osx, Windows
 - Postgresql || Redis || ELK
 - RabbitMQ || ZeroMQ
 - REST || GraphQL
@@ -26,6 +27,8 @@ Currently interested in developing more in roles that have the following stacks:
 - Neovim || Vscode
 - Markdown
 - Podman || SystemD
+- Web Extensions
+- 
 - Or Bring your own tech
 
 I'm currently looking for roles, you can match me at my Linkedin in for more info or you can dig my email through my commit history and let me know and we can set up a meet virtually.
