@@ -28,7 +28,7 @@ Currently interested in developing more in roles that have the following stacks:
 - Markdown
 - Podman || SystemD
 - Web Extensions
-- 
+- Open Source
 - Or Bring your own tech
 
 I'm currently looking for roles, you can match me at my Linkedin in for more info or you can dig my email through my commit history and let me know and we can set up a meet virtually.
