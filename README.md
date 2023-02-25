@@ -8,7 +8,7 @@ Worked with many great companies over time and love to meet interesting people.
 
 Currently interested in developing more in the following stacks:
 - Ruby || Typescrypt || Rust || Ocaml || Elixir ||  Reason || Node
-- Rails || Express || NextJs || React || Apollo || Graphql || Sidekiq || 
+- Rails || Express || NextJs || React || Apollo || Graphql || Sidekiq
 - Linux, Osx, Windows
 - Postgresql || Redis || ELK
 - RabbitMQ || ZeroMQ
