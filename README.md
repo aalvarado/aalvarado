@@ -33,16 +33,4 @@ Currently interested in developing more in the following stacks:
 
 I'm currently looking for roles, you can match me at my Linkedin in for more info or you can dig my email through my commit history and let me know and we can set up a meet virtually. I'm most active in my TimeZone, Pacific.
 
-## A little about me
-I love all the current AI development. I've been thinking about doing some standup lately. 
-
-I'm the author of the band,software house,label,brand,company`: 
-It started as a joke and now I have this very cheap domain and not going to try to find a better name.
-
-Currently deployed to a remote CF worker but I should probably move it.
-
-Nil Mission.
-Current site:
-https://nilmission.icu
-
 I sometimes log to my personal site: https://aalvarado.github.io/
