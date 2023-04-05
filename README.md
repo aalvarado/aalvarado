@@ -1,8 +1,6 @@
 # Hello World!
 
-I'm Adan Alvarado, A Software Engineer and a stoic.
-
-A builder at heart, I enjoy working with a diverse set of collaborators that like to ship good quality software.
+I'm Adan Alvarado, A Software Engineer and a builder at heart, I enjoy working with a diverse set of collaborators that like to ship good quality software.
 
 Worked with many great companies over time and love to meet interesting people.
 
