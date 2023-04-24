@@ -4,6 +4,8 @@ I'm Adan Alvarado, A Software Engineer and a builder at heart, I enjoy working w
 
 Worked with many great companies over time and love to meet interesting people.
 
+Checkout my stars for some of the cool things I've found in Github.
+
 Currently interested in developing more in the following stacks:
 - Ruby || Typescrypt || Rust || Ocaml || Elixir ||  Reason || Node
 - Rails || Express || NextJs || React || Apollo || Graphql || Sidekiq
