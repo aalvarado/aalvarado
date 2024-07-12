@@ -27,11 +27,3 @@ Currently interested in the following stacks:
 
 My personal site: https://aalvarado.github.io/
 
-## Dislikes
-- PHP - dislike syntax, did it for years and was my first scripting language. All sites where this ran got hacked
-- Coffescript - It's like if Python, Javascript and Ruby had a baby
-- Java (It was my first OOP language, and I kinda owe it a lot)
-- .Net - Windows is still has first class support in my household but I don't particularly care much for any .Net programming languages although I did a lot of VB, VB.Net, VBA (lol I have a funny story with Access)
-- Go. see `error != nil`
-- Angular - I sorta don't dislike it as much now, it has won a piece of my mind
-- Non tested code
